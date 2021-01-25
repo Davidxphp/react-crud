@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "David das Coves",
+      "email": "zyx@centralsystem.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Bil Gates",
+      "email": "bil@ms.com"
+    }
+  ]
+}
